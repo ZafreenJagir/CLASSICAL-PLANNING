@@ -136,5 +136,5 @@ The find_plan function aims to determine a sequence of actions to transition fro
 6.End Condition: Print "No plan exists" if no solution is found after exploring all possibilities.
 
 This method ensures finding the shortest path to reach the goal state by exploring all possible state transitions efficiently.
-# Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
-<h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
+# Result:
+Thus the solution for method find_plan(initial_state, goal_state, actions) is prepared successfully.
